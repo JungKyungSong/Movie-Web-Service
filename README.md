@@ -1,2 +1,2 @@
 # Movie-Web-Service
-Create a Movie Web Service with ReactJS
+This is a movie web service created by ReactJS.
